@@ -1,0 +1,5 @@
+{
+  "namn_kvinna":["Emma", "Elin", "Fredrika", "Sara", "Therese", "Asta", "Saga", "Naomi", "Linda", "Emilia", "Marie", "Dzana", "Lovisa", "Ilona", "Sonja", "Stina", "Julia", "Estrid", "Andrea", "Joyce", "Kathleen", "Irene", "Mirsade", "Gayane", "Denise"],
+  "namn_man":["Marcus", "Simon", "Anders", "Kim", "Oskar", "Olle", "Kevin", "Gunnar", "Nikodemus", "August", "Martin", "Axel", "Filip", "Kalle", "Andreas", "Adrian", "Max", "Tobias", "Boris", "Greger", "Kumar", "Maximus", "Tobbe", "Sten", "Benjamin"],
+  "efternamn":["Andersson","Johansson","Karlsson","Nilsson","Eriksson","Larsson","Olsson","Persson","Svensson","Gustafsson","Pettersson","Jonsson","Jansson","Hansson","Bengtsson","Jönsson","Lindberg","Jakobsson","Magnusson","Olofsson","Lindström","Lindqvist","Lindgren","Berg","Axelsson","Bergström","Lundberg","Lind","Lundgren", "Lundqvist","Mattsson", "Berglund", "Fredriksson","Sandberg","Henriksson","Forsberg","Sjöberg","Ali","Wallin","Mohamed","Engström","Eklund","Danielsson","Lundin","Håkansson","Björk","Bergman","Gunnarsson","Holm","Wiks"]
+}
